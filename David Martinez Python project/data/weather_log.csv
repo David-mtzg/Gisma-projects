@@ -1,0 +1,10 @@
+city,country,date,temperature_c,feels_like_c,humidity_pct,wind_speed_kmh,description,is_forecast
+Lima,Peru,2026-03-24,23.3,28.6,85,9.0,Mainly clear,False
+Colfax,United States,2026-03-24,6.0,4.8,43,3.3,Clear sky,False
+Lima,Peru,2026-03-24,22.8,25.5,86,8.4,Overcast,False
+Monterrey,Mexico,2026-03-26,23.6,24.5,69,12.3,Clear sky,False
+Monterrey,Mexico,2026-03-26,23.3,24.3,70,12.3,Clear sky,False
+Monterrey,Mexico,2026-03-26,23.3,24.3,70,12.3,Clear sky,False
+Monterrey,Mexico,2026-03-26,17.3,19.0,97,4.9,Mainly clear,False
+Monterrey,Mexico,2026-03-26,17.3,19.0,98,5.3,Mainly clear,False
+Monterrey,Mexico,2026-03-26,17.3,19.0,98,5.3,Mainly clear,False
